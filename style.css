@@ -12,7 +12,8 @@ body{
     transition: 0.5s ease-in-out;
   }
   #video {
-    
+    align-items: center;
+    justify-content: center;
   }
   canvas{
     position: absolute;
