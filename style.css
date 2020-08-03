@@ -1,0 +1,24 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'SF Pro Display', sans-serif;
+    font-weight:600;
+    font-size: 2vh;
+    transition: 0.5s ease-in-out;
+  }
+  #video {
+    
+  }
+  canvas{
+    position: absolute;
+  }
+  #message{
+    position: absolute;
+    top: -50px;
+  }
+  
